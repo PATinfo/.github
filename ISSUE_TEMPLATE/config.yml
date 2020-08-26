@@ -1,6 +1,0 @@
-blank_issues_enabled: false
-# FYI: GitHub doesn't currently support email addresses... this will not show up
-contact_links:
-  - name: ISLE Security Office
-    url: mailto:secmon@isle.plus
-    about: Please report security vulnerabilities here.

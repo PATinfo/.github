@@ -1,4 +1,4 @@
-<img src="https://avatars0.githubusercontent.com/u/25927624?s=100&&v=4" align="right">
+<img src="https://avatars0.githubusercontent.com/u/25927624?s=200&&v=4" align="right">
 
 # Code of conduct
 

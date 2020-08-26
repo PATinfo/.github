@@ -1,11 +1,11 @@
-#! @revision 2020-08-26 (Wed) 17:13:57
+#! @revision 2020-08-26 (Wed) 19:13:47
 #! @seealso  https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners
 
 # Authorised owners:
-# - ISLEsuisse ISLEserbia
+# - PATinfo ISLEsuisse ISLEserbia
 # - isle-centurion isle-factotum isle-optio isle-signifer
-# - marcastel patrickmamin sangliere snez-ana
+# - marcastel patrickmamin
 
-* @marcastel @isle-factotum
+* @patrickmamin @marcastel @isle-factotum
 
 # vim: nospell

@@ -1,4 +1,4 @@
-<img src="https://avatars0.githubusercontent.com/u/25927624?s=400&u=eb1b53dda489827ba7cc7239b5510084120b8f47&v=4" align="right">
+<img src="https://avatars0.githubusercontent.com/u/25927624?s=200&v=4" align="right">
 
 **Table of contents**\
   [Preamble](#preamble)
